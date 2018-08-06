@@ -1,2 +1,0 @@
-# CUDA
-CUDA Samples
